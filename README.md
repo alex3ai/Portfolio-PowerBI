@@ -1,2 +1,2 @@
 # Portfolio-PowerBI
-Projetos PowerBI Relacionados com vendas.
+Projetos PowerBI
