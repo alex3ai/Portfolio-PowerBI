@@ -31,7 +31,7 @@ Com base nos visuais do dashboard, as seguintes medidas DAX principais foram cri
 Uma análise mais profunda dos dados revela os seguintes insights principais:
 
 📈 Dashboard 1: Visão Geral Executiva
-![Dashboard Executivo](./Projeto_Vendas_Global_Superstore/Dashboard_Executivo.png)
+![Dashboard Executivo](./Dashboard_Executivo.png)
 Este painel fornece uma visão macro do desempenho da empresa, focando em vendas, crescimento, lucratividade e distribuição geográfica.
 
 1. Total de vendas por ano
@@ -53,7 +53,7 @@ Material de Escritório: Tem as menores vendas ($3,8 Mi), mas é a segunda categ
 Observação: O mapa "Total de Lucro por País" mostra que os maiores centros de lucro estão concentrados na América do Norte e na Europa. Existem também contribuições significativas de países da Ásia e da Austrália, enquanto América do Sul e África representam mercados com menor lucratividade.
 
 📊 Dashboard 2: Análise de Lucratividade e Pedidos
-![Dashboard Executivo](./Projeto_Vendas_Global_Superstore/Dashboard_2.png)
+![Dashboard Executivo](./Dashboard_2.png)
 Este painel aprofunda a análise de lucro, identificando os segmentos e subcategorias mais e menos rentáveis, e também examina a distribuição dos pedidos.
 
 1. Lucro total por seguimento
